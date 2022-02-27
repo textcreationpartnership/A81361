@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A description of the sect called the Familie of Love: with their common place of residence. Being discovered by one Mrs Susanna Snow of Pirford near Chersey in the county of Surrey, who was vainly led away for a time through their base allurements, and at length fell mad, till by a great miracle shewn from God, she was delivered.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81361</idno>
+            <idno type="STC">Wing D1168</idno>
+            <idno type="STC">Thomason E168_2</idno>
+            <idno type="STC">ESTC R14634</idno>
+            <idno type="EEBO-CITATION">99859705</idno>
+            <idno type="PROQUEST">99859705</idno>
+            <idno type="VID">157004</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81361)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157004)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 29:E168[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A description of the sect called the Familie of Love: with their common place of residence. Being discovered by one Mrs Susanna Snow of Pirford near Chersey in the county of Surrey, who was vainly led away for a time through their base allurements, and at length fell mad, till by a great miracle shewn from God, she was delivered.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed. 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Snow, Susanna.</term>
+               <term>Familists --  Early works to 1800.</term>
+               <term>Christian sects --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157004:1"/>
+            <pb facs="tcp:157004:1" rendition="simple:additions"/>
+            <p>A DESCRIPTION of the Sect called the <hi>Familie of Love:</hi> With their common place of reſidence.</p>
+            <p>Being diſcovered by one M<hi rend="sup">rs</hi> 
+               <hi>Suſanna Snow</hi> of <hi>Pirford</hi> near <hi>Cherſey</hi> in the County of <hi>Surrey,</hi> who was vainly led away for a time through their baſe allurements, and at length fell mad, till by a great miracle ſhewn from God, ſhe was delivered.</p>
+            <q>
+               <p>O Iſrael trust in the Lord, for in the Lord there is mercy, and with him is plenteous Redemption,</p>
+               <bibl>
+                  <hi>Pſal. 130.</hi>
+               </bibl>
+            </q>
+            <p>London printed. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:157004:2"/>
+            <pb n="1" facs="tcp:157004:2"/>
+            <head>A Deſcription of the Sect called the <hi>Family of Love,</hi> with their com<g ref="char:EOLhyphen"/>mon place of Reſidence.</head>
+            <p>IT was in the County of <hi>Surrey,</hi> at a Village called <hi>Pirford,</hi> three miles from <hi>Cherſey,</hi> there dwelt a Gentleman by name <hi>Snow,</hi> who had to his daughter a very beautifull and religious Gentlewoman, who was not onely a joy to the father, but alſo an exceeding joy to the mother; ſhe had not long gladded the hearts of her Parents with a vertuous and dut full behaviour, when the devill, arch enemy to mankinde, ſought to ſubvert and eradicate this well planted vertue, and thus it hapned:</p>
+            <p>This Gentlewoman (Miſtris <hi>Suſan Snow</hi>) for ſo was ſhe called, bolding prattle with one of her fathers men, one day began to queſtion with him about the new Sects of Religion which now were ſo much talked of, enquiring what newes he heard of any of them.</p>
+            <p>He anſwered that it was his chance to be at a little Vil<g ref="char:EOLhyphen"/>lage called <hi>Bagſhot,</hi> not ſix miles from thence, where he heard of a Company that got reſidence there, and every day had a meeting in a private place, which was miſtruſted to be about the ſigne of the Bucke, and they called themſelves <hi>The Family of Love,</hi> and moſt have a great ſuſpition that they came from <hi>London,</hi> and their number is about an hun<g ref="char:EOLhyphen"/>dred; but he told her it was the talke of the whole Coun<g ref="char:EOLhyphen"/>trey. This Miſtris <hi>Suſan</hi> heard with patience, and marked with diligence every particular, ſhe gave the ſervant but
+<pb n="2" facs="tcp:157004:3"/>little anſwer, but ſhe vowed in her heart to ſee the faſhions of this Sect, well, night grew on, and to bed they went, but ſhe prevented the early Sun in being up before him, ſo great a deſire ſhe had poor Gentlewoman to thruſt her ſelfe into danger. After ſhe had broke her faſte, and cauſed her man to ſet a ſide-ſaddle on a Gelding, alone ſhe took her jour<g ref="char:EOLhyphen"/>ney, vowing not to returne till ſhe had ſeen ſome of their behaviours which were of the <hi>Family of Love.</hi>
+            </p>
+            <p>Thus ſhe rode along undiſturbed by meeting any Paſſen<g ref="char:EOLhyphen"/>gers till ſhe came with in halfe a mile of the Village of <hi>Bag<g ref="char:EOLhyphen"/>ſhot,</hi> but then ſhe ſaw at the leaſt an hundred perſons men and women croſſing over the Heath, bending their courſe towards a Wood called <hi>Birch wood,</hi> to them-wards ſhe rides, and overtaking a ſiſter which laggred behinde the reſt, ſhe cried, well overtaken ſiſter; the ſiſter of the <hi>Family</hi> bid her welcome, Siſter (quoth Miſtris <hi>Suſan</hi>) is your habitation here about <hi>Bagſhot?</hi> the ſiſter anſwered, that ſhe ſojourned in <hi>Ban<g ref="char:EOLhyphen"/>wage,</hi> then quoth ſhe, ſure you can reſolve me one queſtion, which is this, Do you know of any that came from <hi>London</hi> lately, there were about the number of an hundred, I was of the Company, but they came away unknowne unto me: and I hear that they ſojourne here about this Coaſt. The ſilly ſiſter was not aware of the guile which ſhe ſpake, but anſwered her, that this was the Company ſhe meant ſure. M<hi rend="sup">s</hi> 
+               <hi>Suſan</hi> asked again, Are theſe of the <hi>Family?</hi> ſhe anſwered, Yes. Then Miſtris <hi>Suſan</hi> rode after and overtook them, where this wo<g ref="char:EOLhyphen"/>man revealed the conference ſhe had with Miſtris <hi>Suſan,</hi> and how that ſhe thought her to be very zealouſly affected to the <hi>Family:</hi> on theſe words, although ſhe were unknowne, yet ſhe was entertained into their Society, and went along with them.</p>
+            <p>Now you muſt underſtand that they have certain dayes
+<pb n="3" facs="tcp:157004:3"/>which are dedicated unto Saints as they call them, as to <hi>Ovid,</hi> who wrote the Art of Loving, to <hi>Priapus,</hi> the firſt bawdy Butcher that ever did ſticke prickes in fleſh, and make it ſwell, and to many others which they uſed to ſpend in poetizing in the woods: thither they come, and after many paſtimes there enacted, the Poet deſired them to ſit downe on the Green, and then he began to ſpeake moſt ſtrong lan<g ref="char:EOLhyphen"/>guage, as this or the like, let not us perſwade our ſelves al<g ref="char:EOLhyphen"/>though that many would have us to beleeve it, that our great god <hi>Cupid</hi> is obcaecated, for he penetrateth the intrals of the moſt magnanimous; after theſe or the like words, he recited part of a verſe from forth <hi>Virgils</hi> Epigrams,
+<q>
+                  <l>—Non ſtat bene mentula craſſa.</l>
+               </q> Which to Engliſh I forbear, becauſe it is obſcene; on this he built his whole diſcourſe, venting very ſtrange obſcene paſſages, after this was done, they go to dinner, where they had exceeding delicates, and after this repaſt they provided to returne. Now here you muſt note that the Poet viewing this new ſiſter of the <hi>Family,</hi> was mightily enflamed with her, that either he muſt enjoy her or periſh, when they were walking home therefore, he ſingled her out from the reſt of the Company, and ſpake to her as followeth.</p>
+            <p>
+               <hi>Fair ſiſter, hard is that taske, where I must either die in ſi<g ref="char:EOLhyphen"/>lence, or elſe preſent unto you an unſeemly ſuit, but ſo irkſome is death, and ſo pleaſant the enjoyments of my wiſhes, that I rather deſire to be counted unmannerly than not amorous to your beau<g ref="char:EOLhyphen"/>teous ſelf.</hi> With theſe and ſuch like words he courted her, till at length time and opportunity both favoured him ſo much that ſhe played a mans part indeed, ſhe ſaid nay, and yet took it. This novice having had his deſire, conducted her to the Company, and there left her among the reſt of the ſiſters, where ſhe ſtayed for the ſpace of a whole week, viewing
+<pb n="4" facs="tcp:157004:4"/>their faſhions, as the manner of their prayers, of their preaching, of their Chriſtening and Burying, with many more things which will be too long for this little Pamphlet to bear.</p>
+            <p>Now when ſhe had ſeen as ſhe thought enough, ſhe ſtole away from them not ceaſing to thinke of the wrong ſhe had ſuſtained by her conſenting to the luſt of the poeticall bro<g ref="char:EOLhyphen"/>ther; well, diſcontentedly ſhe paſſed the way till ſhe came in the preſence of her father, he asked her with very milde and loving tearmes where ſhe had been, ſhe anſwered him, at her aunts at <hi>Okingham,</hi> with which anſwer her father was ſatiſ<g ref="char:EOLhyphen"/>fied, but her mother was not, becauſe ſhe had ſent thither before to ſee if ſhe had been there, yet her mother could get no other anſwer from her than that ſhe had been there; but ſeeing that ſhe was come home again, they queſtioned the matter no more where ſhe had been; but ſhe had not been at home long when ſhe began to delight to be by her ſelfe, and to make much of melancholy, taking delight in nothing wherein ſhe did heretofore; this her loving parents took notice of, but would not ſpeak of it, and thus ſhe continued for the ſpace of ten or fourteen dayes, at laſt ſhe began to be very untowardly, and they could not rule her, for ſhe would break glaſſes and earthen ware, and throw any thing at the heads of the ſervants, and incontinent ſhe fell ſtarke mad; I cannot expreſſe her fathers grief, when he ſaw his onely beloved daughter in this plight, but I will leave you to judge of it who have children of your owne, how it would grieve you to ſee your children in ſuch a plight. Her father although he were almoſt deſtracted with grief to ſee his childe thus lie on the wracke of misfortune, ſummons p his ſences together, and at length he thought upon one Maſter <hi>Ybder</hi> a very honeſt man, and a moſt reve<g ref="char:EOLhyphen"/>rend
+<pb n="5" facs="tcp:157004:4"/>Divine, living in <hi>Oxford,</hi> to him he ſent, requeſting him of all loves that he would come, and viſit him in this his great diſtreſſe, he preſently diſpatched horſe and man, for <hi>Oxford</hi> they were bound, the man comming to Maſter <hi>Ybders</hi> chamber, which is in <hi>Magdalon Hall,</hi> he found him within, to whom he delivered his meſſage: Maſter <hi>Ybder</hi> came along with him, he was no ſooner arrived at Maſter <hi>Snows</hi> houſe, but the poor Gentleman almoſt franticke for his daughters diſtemperature, with teares in his eyes, began and related (what you have here before read) to Maſter <hi>Yb<g ref="char:EOLhyphen"/>der,</hi> who preſently deſired that he might but ſee her, this good old man with all diligence being ſtill in hope of her recovery, conducted him into the chamber wher his daugh<g ref="char:EOLhyphen"/>ter was, ſhe had no ſooner fixed her eyes upon them entring, but ſhe ſhreeked out, and cried, The divell, the divell, I am damn'd, I am damn'd, I am damn'd, with many ſuch like horrid horrible exclamations: then ſtepped forwards Ma<g ref="char:EOLhyphen"/>ſter <hi>Ybder,</hi> and told her that ſhe was deceived, God ſurely would not leave her ſoule ſo, if ſhe would but endeavour as ſhe had done heretofore, for ſaid he, Chriſt came not into the world to call the righteous, but ſinners to repentance, and again, Seek and yee ſhall finde, knocke and it ſhall be opened unto thee, and although thou haſt played the harlot with many lovers, yet returne again unto me ſaith the Lord, at the third Chapter of <hi>Ieremy,</hi> and the firſt Verſe.</p>
+            <p>She hearkened unto Maſter <hi>Ybder</hi> very patiently, for the ſpace of halfe an hour but then ſhe began to be very trouble<g ref="char:EOLhyphen"/>ſome, and ſometimes outragious, at laſt ſhe called for ſome wine, for ſhe was very thirſty, ſhe ſaid: wine was brought unto her in a Venice-glaſſe, her father (good old man) ſpake to her to drinke to Maſter <hi>Ybder,</hi> for he had taken great paines with her, ſhe looked very wildely on him, and threw
+<pb n="6" facs="tcp:157004:5"/>the glaſſe to the ground, with theſe words, That it was <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> impoſſible for her to be ſaved, as for that glaſſe to rebound into her hand unbroken, which contrary to the expectation of all, this glaſſe did; Well, ſaid this Gentlewoman, I will yet truſt in the Lord my Redeemer, for he is merci<g ref="char:EOLhyphen"/>full and long-ſuffering, with theſe words ſhe praiſed God and began (as from the beginning) to relate the cauſe of her diſtemperature, deſiring Maſter <hi>Ybder</hi> that he would pray with her, and for her; and thus by the mercy of God was this Gentlewoman delivered.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
